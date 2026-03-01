@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StockTrackPro.API/StockTrackPro.API.csproj" />
+    <Project Path="src/StockTrackPro.Application/StockTrackPro.Application.csproj" />
+    <Project Path="src/StockTrackPro.Contracts/StockTrackPro.Contracts.csproj" />
+    <Project Path="src/StockTrackPro.Domain/StockTrackPro.Domain.csproj" />
+    <Project Path="src/StockTrackPro.Infrastructure/StockTrackPro.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/StockTrackPro.IntegrationTests/StockTrackPro.IntegrationTests.csproj" />
+    <Project Path="tests/StockTrackPro.UnitTests/StockTrackPro.UnitTests.csproj" />
+  </Folder>
+</Solution>
